@@ -21,3 +21,5 @@ Features:
 -jank
 -keys and doors
 
+
+This project is licensed under the MIT license please read the license before modification and upload to the internet.
