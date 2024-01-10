@@ -6,10 +6,12 @@ Setup is simple:
 
 
 All Key Objects should be tagged with "Key" + (*key id) on the layer "Keys"
+
 All Recivers should be on the layer "Reciver"
 
 
 All *World Model keys should have the "Pickup" Script attached.
+
 All Reciver's should have the "Reciver" script and a *World Model parented underneath
 
 
