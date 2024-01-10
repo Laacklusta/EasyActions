@@ -13,12 +13,16 @@ In your XRDeviceBased Rig's (Gorilla Rig) Controller's Add a Key model underneat
 
 Additions coming:
 -Lerping from place to place
+
 -item swapping system
+
 -dropping
 
 Features:
 -Object goes to hand that touches object
+
 -jank
+
 -keys and doors
 
 
